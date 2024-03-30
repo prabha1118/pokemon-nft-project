@@ -1,0 +1,37 @@
+{
+    "name": "Squirtle",
+    "description": "Squirtle is a small, light-blue Pokémon with an appearance similar to a turtle. With its aerodynamic shape and grooved surface, Squirtle's shell helps it wade through the water very quick.",
+    "image": "https://ipfs.io/ipfs/QmRVzqQDjTqaWKkqdDkc2o9vA4VoLq39aj3YxxzqP5kzrb",
+    "attributes": [
+        {
+            "trait_type": "HP",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Speed",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Attack",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Defence",
+            "value": 4,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Attack",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Defence",
+            "value": 5,
+            "max_value": 15
+        }
+    ]
+}

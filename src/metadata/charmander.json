@@ -1,0 +1,37 @@
+{
+    "name": "Charmander",
+    "description": "Charmander are small, bipedal lizard-like Pokémon native to Kanto. They have blue eyes, orange skin, three-toed clawed feet, yellow bellies, and a single yellow pad.",
+    "image": "https://ipfs.io/ipfs/QmRBEu7cNrgCwPKwwB5M9T9husgT1jLvUtnvxYRD36jFUm",
+    "attributes": [
+        {
+            "trait_type": "HP",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Speed",
+            "value": 4,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Attack",
+            "value": 4,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Defence",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Attack",
+            "value": 4,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Defence",
+            "value": 3,
+            "max_value": 15
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Ho-Oh",
+    "description": "This Pokémon is said to live at the foot of a rainbow. Ho-Oh's feathers glow in seven colors depending on the angle at which they are struck by ligh",
+    "image": "https://ipfs.io/ipfs/Qme8ymwXPWoPGTxytHKhgSgrdaS8zczh2MHSzqCiGNHyvH",
+    "attributes": [
+        {
+            "trait_type": "HP",
+            "value": 7,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Speed",
+            "value": 6,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Attack",
+            "value": 8,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Defence",
+            "value": 6,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Attack",
+            "value": 7,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Defence",
+            "value": 10,
+            "max_value": 15
+        }
+    ]
+}

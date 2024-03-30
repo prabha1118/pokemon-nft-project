@@ -1,0 +1,37 @@
+{
+    "name": "Chikorita",
+    "description": "Chikorita is a small, pale-green, quadrupedal Pokémon with dark-green buds around its neck. Its head is large in proportion to the rest of its body, and it has big red eyes",
+    "image": "https://ipfs.io/ipfs/QmZt6bQbsENKQbvQ6iExW8Tayxw9GbXWdwSqhgE6tYangj",
+    "attributes": [
+        {
+            "trait_type": "HP",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Speed",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Attack",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Defence",
+            "value": 4,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Attack",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Defence",
+            "value": 4,
+            "max_value": 15
+        }
+    ]
+}

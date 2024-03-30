@@ -1,0 +1,37 @@
+{
+    "name": "Mewtwo",
+    "description": "Mewtwo is intended to be the strongest Pokémon ever due to genetic engineering being applied to a sample of Mew's DNA, Mewtwo is an extremely powerful psychic, with its abilities",
+    "image": "https://ipfs.io/ipfs/QmeF2NGB2VU3YqxVx8ThDrNYTPXQAXSwF2qPKUiqqh9RJw",
+    "attributes": [
+        {
+            "trait_type": "HP",
+            "value": 7,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Speed",
+            "value": 8,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Attack",
+            "value": 7,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Defence",
+            "value": 6,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Attack",
+            "value": 10,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Defence",
+            "value": 6,
+            "max_value": 15
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Dragonite",
+    "description": "Dragonite is capable of circling the globe in just sixteen hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land",
+    "image": "https://ipfs.io/ipfs/Qmbsskht8tqwBPbpE2jq5h98UB3n7K8hdmRK8SNcQEYrPs",
+    "attributes": [
+        {
+            "trait_type": "HP",
+            "value": 6,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Speed",
+            "value": 5,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Attack",
+            "value": 8,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Defence",
+            "value": 6,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Attack",
+            "value": 6,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Defence",
+            "value": 6,
+            "max_value": 15
+        }
+    ]
+}

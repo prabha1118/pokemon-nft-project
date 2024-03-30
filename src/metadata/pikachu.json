@@ -1,0 +1,37 @@
+{
+    "name": "Pikachu",
+    "description": "Pikachu was designed around the concept of electricity. They are creatures that have short, yellow fur with brown markings covering their backs and parts of their lightning bolt-shaped tails",
+    "image": "https://ipfs.io/ipfs/QmTCAcxFCVysgSbBupyGEG9e5iJxd43Hn7sMza2vyDXwMj",
+    "attributes": [
+        {
+            "trait_type": "HP",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Speed",
+            "value": 6,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Attack",
+            "value": 4,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Defence",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Attack",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Defence",
+            "value": 3,
+            "max_value": 15
+        }
+    ]
+}

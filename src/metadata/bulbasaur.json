@@ -1,0 +1,37 @@
+{
+    "name": "Bulbasaur",
+    "description": "Bulbasaur are small, squat amphibian and plant Pokémon that move on all four legs, and have blue-green bodies with darker blue-green spots.",
+    "image": "https://ipfs.io/ipfs/QmSUi5Agh255Adyb8PKXEjugzd8e515tZAat6ygjtG8fUb",
+    "attributes": [
+        {
+            "trait_type": "HP",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Speed",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Attack",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Defence",
+            "value": 3,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Attack",
+            "value": 4,
+            "max_value": 15
+        },
+        {
+            "trait_type": "Special Defence",
+            "value": 4,
+            "max_value": 15
+        }
+    ]
+}
