@@ -1,36 +1,36 @@
 {
-    "name": "Dragonite",
-    "description": "Dragonite is capable of circling the globe in just sixteen hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land",
-    "image": "https://ipfs.io/ipfs/Qmbsskht8tqwBPbpE2jq5h98UB3n7K8hdmRK8SNcQEYrPs",
+    "name": "Charmander",
+    "description": "Charmander are small, bipedal lizard-like Pokémon native to Kanto. They have blue eyes, orange skin, three-toed clawed feet, yellow bellies, and a single yellow pad.",
+    "image": "https://ipfs.io/ipfs/QmZQ7JEzUXGV1rAMY7X41m2Pz7U3sA2ehhBWoNFwowoWqd/2.jpg",
     "attributes": [
         {
             "trait_type": "HP",
-            "value": 6,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Speed",
-            "value": 5,
+            "value": 4,
             "max_value": 15
         },
         {
             "trait_type": "Attack",
-            "value": 8,
+            "value": 4,
             "max_value": 15
         },
         {
             "trait_type": "Defence",
-            "value": 6,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Special Attack",
-            "value": 6,
+            "value": 4,
             "max_value": 15
         },
         {
             "trait_type": "Special Defence",
-            "value": 6,
+            "value": 3,
             "max_value": 15
         }
     ]

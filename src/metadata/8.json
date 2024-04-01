@@ -1,36 +1,36 @@
 {
-    "name": "Lapras",
-    "description": "Lapras have gentle hearts. Poachers have driven Lapras to the point of near-extinction, though recent protection regulations have instead made it an overabundant species.",
-    "image": "https://ipfs.io/ipfs/QmbJgNtmBTpW6FxkqVEMcHMuF4e4ZCzF8ruiKZAYuMbUjb",
+    "name": "Pikachu",
+    "description": "Pikachu was designed around the concept of electricity. They are creatures that have short, yellow fur with brown markings covering their backs and parts of their lightning bolt-shaped tails",
+    "image": "https://ipfs.io/ipfs/QmZQ7JEzUXGV1rAMY7X41m2Pz7U3sA2ehhBWoNFwowoWqd/8.jpg",
     "attributes": [
         {
             "trait_type": "HP",
-            "value": 8,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Speed",
-            "value": 4,
+            "value": 6,
             "max_value": 15
         },
         {
             "trait_type": "Attack",
-            "value": 5,
+            "value": 4,
             "max_value": 15
         },
         {
             "trait_type": "Defence",
-            "value": 5,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Special Attack",
-            "value": 5,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Special Defence",
-            "value": 6,
+            "value": 3,
             "max_value": 15
         }
     ]

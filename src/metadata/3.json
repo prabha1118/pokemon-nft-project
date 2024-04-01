@@ -1,7 +1,7 @@
 {
-    "name": "Pikachu",
-    "description": "Pikachu was designed around the concept of electricity. They are creatures that have short, yellow fur with brown markings covering their backs and parts of their lightning bolt-shaped tails",
-    "image": "https://ipfs.io/ipfs/QmTCAcxFCVysgSbBupyGEG9e5iJxd43Hn7sMza2vyDXwMj",
+    "name": "Chikorita",
+    "description": "Chikorita is a small, pale-green, quadrupedal Pokémon with dark-green buds around its neck. Its head is large in proportion to the rest of its body, and it has big red eyes",
+    "image": "https://ipfs.io/ipfs/QmZQ7JEzUXGV1rAMY7X41m2Pz7U3sA2ehhBWoNFwowoWqd/3.jpg",
     "attributes": [
         {
             "trait_type": "HP",
@@ -10,17 +10,17 @@
         },
         {
             "trait_type": "Speed",
-            "value": 6,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Attack",
-            "value": 4,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Defence",
-            "value": 3,
+            "value": 4,
             "max_value": 15
         },
         {
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "Special Defence",
-            "value": 3,
+            "value": 4,
             "max_value": 15
         }
     ]

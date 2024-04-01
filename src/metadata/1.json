@@ -1,7 +1,7 @@
 {
-    "name": "Charmander",
-    "description": "Charmander are small, bipedal lizard-like Pokémon native to Kanto. They have blue eyes, orange skin, three-toed clawed feet, yellow bellies, and a single yellow pad.",
-    "image": "https://ipfs.io/ipfs/QmRBEu7cNrgCwPKwwB5M9T9husgT1jLvUtnvxYRD36jFUm",
+    "name": "Bulbasaur",
+    "description": "Bulbasaur are small, squat amphibian and plant Pokémon that move on all four legs, and have blue-green bodies with darker blue-green spots.",
+    "image": "https://ipfs.io/ipfs/QmZQ7JEzUXGV1rAMY7X41m2Pz7U3sA2ehhBWoNFwowoWqd/1.jpg",
     "attributes": [
         {
             "trait_type": "HP",
@@ -10,12 +10,12 @@
         },
         {
             "trait_type": "Speed",
-            "value": 4,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Attack",
-            "value": 4,
+            "value": 3,
             "max_value": 15
         },
         {
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "Special Defence",
-            "value": 3,
+            "value": 4,
             "max_value": 15
         }
     ]

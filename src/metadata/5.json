@@ -1,36 +1,36 @@
 {
-    "name": "Bulbasaur",
-    "description": "Bulbasaur are small, squat amphibian and plant Pokémon that move on all four legs, and have blue-green bodies with darker blue-green spots.",
-    "image": "https://ipfs.io/ipfs/QmSUi5Agh255Adyb8PKXEjugzd8e515tZAat6ygjtG8fUb",
+    "name": "Ho-Oh",
+    "description": "This Pokémon is said to live at the foot of a rainbow. Ho-Oh's feathers glow in seven colors depending on the angle at which they are struck by ligh",
+    "image": "https://ipfs.io/ipfs/QmZQ7JEzUXGV1rAMY7X41m2Pz7U3sA2ehhBWoNFwowoWqd/5.jpg",
     "attributes": [
         {
             "trait_type": "HP",
-            "value": 3,
+            "value": 7,
             "max_value": 15
         },
         {
             "trait_type": "Speed",
-            "value": 3,
+            "value": 6,
             "max_value": 15
         },
         {
             "trait_type": "Attack",
-            "value": 3,
+            "value": 8,
             "max_value": 15
         },
         {
             "trait_type": "Defence",
-            "value": 3,
+            "value": 6,
             "max_value": 15
         },
         {
             "trait_type": "Special Attack",
-            "value": 4,
+            "value": 7,
             "max_value": 15
         },
         {
             "trait_type": "Special Defence",
-            "value": 4,
+            "value": 10,
             "max_value": 15
         }
     ]

@@ -1,21 +1,21 @@
 {
-    "name": "Mewtwo",
-    "description": "Mewtwo is intended to be the strongest Pokémon ever due to genetic engineering being applied to a sample of Mew's DNA, Mewtwo is an extremely powerful psychic, with its abilities",
-    "image": "https://ipfs.io/ipfs/QmeF2NGB2VU3YqxVx8ThDrNYTPXQAXSwF2qPKUiqqh9RJw",
+    "name": "Dragonite",
+    "description": "Dragonite is capable of circling the globe in just sixteen hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land",
+    "image": "https://ipfs.io/ipfs/QmZQ7JEzUXGV1rAMY7X41m2Pz7U3sA2ehhBWoNFwowoWqd/4.jpg",
     "attributes": [
         {
             "trait_type": "HP",
-            "value": 7,
+            "value": 6,
             "max_value": 15
         },
         {
             "trait_type": "Speed",
-            "value": 8,
+            "value": 5,
             "max_value": 15
         },
         {
             "trait_type": "Attack",
-            "value": 7,
+            "value": 8,
             "max_value": 15
         },
         {
@@ -25,7 +25,7 @@
         },
         {
             "trait_type": "Special Attack",
-            "value": 10,
+            "value": 6,
             "max_value": 15
         },
         {

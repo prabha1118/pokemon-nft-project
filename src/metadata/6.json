@@ -1,36 +1,36 @@
 {
-    "name": "Snorlax",
-    "description": "Snorlax is a very large and fat mammalian Pokémon that has grayish-blue fur and an apricot-color underbelly. Its eyes are always closed, making it look as if it is sleeping.",
-    "image": "https://ipfs.io/ipfs/QmYDgLh9oZR7FJ1kFXEh6jp9KLwgQsfrTT1RAwjgdWVq7x",
+    "name": "Lapras",
+    "description": "Lapras have gentle hearts. Poachers have driven Lapras to the point of near-extinction, though recent protection regulations have instead made it an overabundant species.",
+    "image": "https://ipfs.io/ipfs/QmZQ7JEzUXGV1rAMY7X41m2Pz7U3sA2ehhBWoNFwowoWqd/6.jpg",
     "attributes": [
         {
             "trait_type": "HP",
-            "value": 10,
+            "value": 8,
             "max_value": 15
         },
         {
             "trait_type": "Speed",
-            "value": 2,
+            "value": 4,
             "max_value": 15
         },
         {
             "trait_type": "Attack",
-            "value": 7,
+            "value": 5,
             "max_value": 15
         },
         {
             "trait_type": "Defence",
-            "value": 4,
+            "value": 5,
             "max_value": 15
         },
         {
             "trait_type": "Special Attack",
-            "value": 4,
+            "value": 5,
             "max_value": 15
         },
         {
             "trait_type": "Special Defence",
-            "value": 7,
+            "value": 6,
             "max_value": 15
         }
     ]

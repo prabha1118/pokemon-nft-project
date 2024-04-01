@@ -1,36 +1,36 @@
 {
-    "name": "Ho-Oh",
-    "description": "This Pokémon is said to live at the foot of a rainbow. Ho-Oh's feathers glow in seven colors depending on the angle at which they are struck by ligh",
-    "image": "https://ipfs.io/ipfs/Qme8ymwXPWoPGTxytHKhgSgrdaS8zczh2MHSzqCiGNHyvH",
+    "name": "Squirtle",
+    "description": "Squirtle is a small, light-blue Pokémon with an appearance similar to a turtle. With its aerodynamic shape and grooved surface, Squirtle's shell helps it wade through the water very quick.",
+    "image": "https://ipfs.io/ipfs/QmZQ7JEzUXGV1rAMY7X41m2Pz7U3sA2ehhBWoNFwowoWqd/10.jpg",
     "attributes": [
         {
             "trait_type": "HP",
-            "value": 7,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Speed",
-            "value": 6,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Attack",
-            "value": 8,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Defence",
-            "value": 6,
+            "value": 4,
             "max_value": 15
         },
         {
             "trait_type": "Special Attack",
-            "value": 7,
+            "value": 3,
             "max_value": 15
         },
         {
             "trait_type": "Special Defence",
-            "value": 10,
+            "value": 5,
             "max_value": 15
         }
     ]
