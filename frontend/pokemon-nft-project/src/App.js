@@ -53,7 +53,7 @@ function App() {
   }
 
   async function getNfts(address) {
-    const rpc = "https://eth-sepolia.g.alchemy.com/v2/cj5irpeTFh0WNOdT5xj-R6SMY7U4QWD3"
+    const rpc = "https://eth-sepolia.g.alchemy.com/v2/lZauLkEYIgJfM-baqcBkMo6IwMEXFA83"
     const provider = new JsonRpcProvider(rpc);
 
     let nftCollection = new Contract(
